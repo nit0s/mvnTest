@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-10T17:16:41 CST" name="Surefire suite" finished-at="2024-01-10T17:16:46 CST" duration-ms="4972">
+    <groups>
+    </groups>
+    <test started-at="2024-01-10T17:16:41 CST" name="Surefire test" finished-at="2024-01-10T17:16:46 CST" duration-ms="4972">
+      <class name="googleTest">
+        <test-method signature="googleFirstTest()[pri:0, instance:googleTest@3b2cf7ab]" started-at="2024-01-10T17:16:41 CST" name="googleFirstTest" finished-at="2024-01-10T17:16:46 CST" duration-ms="4938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleFirstTest -->
+      </class> <!-- googleTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
